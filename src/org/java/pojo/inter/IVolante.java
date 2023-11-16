@@ -1,5 +1,5 @@
 package org.java.pojo.inter;
 
-public class IVolante {
-
+public interface IVolante {
+	String vola();
 }

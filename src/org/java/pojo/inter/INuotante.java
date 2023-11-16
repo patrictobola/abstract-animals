@@ -1,5 +1,5 @@
 package org.java.pojo.inter;
 
-public class INuotante {
-
+public interface INuotante {
+	String nuota();
 }
