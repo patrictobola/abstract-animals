@@ -6,13 +6,13 @@ public class Passerotto extends Animale{
 
 	@Override
 	public void verso() {
-		// TODO Auto-generated method stub
+		System.out.println("Cinguetto");
 		
 	}
 
 	@Override
 	public void mangia() {
-		// TODO Auto-generated method stub
+		System.out.println("Semi e moscerini (credo)");
 		
 	}
 
