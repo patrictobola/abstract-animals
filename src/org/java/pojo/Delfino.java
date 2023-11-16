@@ -1,5 +1,19 @@
 package org.java.pojo;
 
-public class Delfino {
+import org.java.pojo.abs.Animale;
+
+public class Delfino extends Animale{
+
+	@Override
+	public void verso() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void mangia() {
+		// TODO Auto-generated method stub
+		
+	}
 
 }
